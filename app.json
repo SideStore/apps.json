@@ -1,0 +1,58 @@
+{
+  "name": "SideStore",
+  "identifier": "org.sidestore.SideStore",
+  "sourceURL": "https://apps.altstore.io/apps.json",
+  "apps": [
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "org.sidestore.SideStore",
+      "developerName": "SideStore",
+      "version": "1.5",
+      "versionDate": "2022-05-06T08:00:00-07:00",
+      "versionDescription": "TRUSTED SOURCES\nâ€¢ Download and update certain third party apps entirely through AltStore\nâ€¢ Add Trusted Sources directly from the new Sources page\nâ€¢ Trusted Sources are sources weâ€™ve explicitly approved that meet our safety standards\nâ€¢ You can still sideload any .ipa you want via the \"+\" button in My Apps \nâ€¢ Support for adding any source by URL will be coming later\n\nALTJIT\nâ€¢ Allows sideloaded apps to use Just-in-Time (JIT) compilation\nâ€¢ Long-press an app in My Apps, then choose â€œEnable JITâ€\nâ€¢ JIT will remain enabled until the app is quit\nâ€¢ Requires iOS 14 or later\nâ€¢ Requires AltServer 1.5 or later\n\nIMPROVED\nâ€¢ Adds Shane to credits and Patreon screen\nâ€¢ Loads â€œFriend Tierâ€ Patrons much faster on Patreon screen\n\nFIXED\nâ€¢ Fixed a potential crash when sideloading certain apps\nâ€¢ Fixed some apps having access to AltStoreâ€™s app group after being (de-)activated\nâ€¢ Fixed Core Data error when not connected to internet",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5.ipa",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "size": 5459395,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
+        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+  ],
+  "news": [
+    {
+      "title": "Delta Gaining DS Support",
+      "identifier": "delta-ds-support",
+      "caption": "Available this Saturday for patrons, coming soon for everyone else.",
+      "tintColor": "8A28F7",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65603159-0676a400-df5a-11e9-882e-dc5566f4d50a.png",
+      "date": "2019-09-25",
+      "notify": false
+    },
+    {
+      "title": "Welcome to SideStore
+      "identifier": "welcome-to-sidestore",
+      "caption": "Please read the FAQ for help with installing apps.",
+      "tintColor": "018084",
+      "url": "https://sidesstore.io/faq/",
+      "date": "2022-06-01",
+      "notify": false
+    },
+  ],
+  "userInfo": {
+    "patreonAccessToken": "TODO"
+  }
+}
