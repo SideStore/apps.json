@@ -43,13 +43,6 @@
       "notify": false
     },
     {
-      "title": "SideStore releases!",
-      "identifier": "your mum",
-      "caption": "xhesesefa se",
-      "date": "2022-06-05",
-      "notify": false
-    },
-    {
       "title": "e",
       "identifier": "no",
       "caption": "never gonna",
@@ -57,6 +50,15 @@
       "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
       "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "date": "2022-05-05",
+      "notify": false
+    },
+    {
+      "title": "New to AltStore?",
+      "identifier": "updated-faq",
+      "caption": "Check out our updated guide to learn how to sideload apps!",
+      "tintColor": "018084",
+      "url": "https://faq.altstore.io",
+      "date": "2022-07-28",
       "notify": false
     }
   ],
