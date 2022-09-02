@@ -4,8 +4,8 @@
   "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
   "apps": [
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "Riley Testut",
       "version": "1.5.1",
       "versionDate": "2022-07-14T12:00:00-05:00",
