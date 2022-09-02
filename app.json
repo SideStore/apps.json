@@ -23,11 +23,11 @@
       "permissions": [
         {
           "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+          "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
         },
         {
           "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+          "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
       ]
     }
