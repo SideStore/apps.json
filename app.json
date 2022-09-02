@@ -1,6 +1,6 @@
 {
   "name": "SideStore Official",
-  "identifier": "com.rileytestut.AltStore",
+  "identifier": "com.SideStore.SideStore",
   "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
   "apps": [
     {
