@@ -1,17 +1,17 @@
 {
   "name": "SideStore Official",
-  "identifier": "com.SideStore.SideStore",
+  "identifier": "com.rileytestut.AltStore",
   "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
   "apps": [
     {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
-      "developerName": "SideTeam",
-      "version": "1.5.1b",
-      "versionDate": "2022-09-01",
-      "versionDescription": "Fixes some issues \n\n EPIC STORE FOR GAMERS",
+      "developerName": "Riley Testut",
+      "version": "1.5.1",
+      "versionDate": "2022-07-14T12:00:00-05:00",
+      "versionDescription": "This update fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps\n• Potential crash when receiving unknown error codes from AltServer",
       "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
-      "localizedDescription": "SideStore is an app that allows non-jailbroken iOS/iPadOS users to sideload apps all on-device.",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
       "size": 5465976,
@@ -47,7 +47,7 @@
       "title": "New to SideStore?",
       "identifier": "updated-faq",
       "caption": "Check out our updated guide to learn how to sideload apps!",
-      "tintColor": "#8043FF",
+      "tintColor": "018084",
       "url": "https://faq.altstore.io",
       "date": "2022-07-28",
       "notify": false
