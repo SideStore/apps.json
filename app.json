@@ -1,17 +1,17 @@
 {
   "name": "SideStore Official",
-  "identifier": "com.SideStore.SideStore",
+  "identifier": "com.rileytestut.AltStore",
   "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
   "apps": [
     {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
-      "developerName": "Riley Testut",
+      "developerName": "Side Team",
       "version": "1.5.1",
       "versionDate": "2022-07-14T12:00:00-05:00",
       "versionDescription": "This update fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps\n• Potential crash when receiving unknown error codes from AltServer",
       "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
       "tintColor": "8043FF",
       "size": 5465976,
@@ -23,11 +23,11 @@
       "permissions": [
         {
           "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+          "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
         },
         {
           "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+          "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
       ]
     }
