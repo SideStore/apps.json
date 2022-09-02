@@ -123,7 +123,14 @@
       "tintColor": "018084",
       "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
       "date": "2020-04-10T13:00:00-07:00",
-      "notify": true
+      "notify": false
+    },
+    {
+      "title": "SideStore releases!",
+      "identifier": "your mum",
+      "caption": "xhesesefa se",
+      "date": "2022-06-05",
+      "notify": false
     },
     {
       "title": "e",
@@ -133,7 +140,7 @@
       "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
       "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "date": "2022-05-05",
-      "notify": true
+      "notify": false
     }
   ],
   "userInfo": {
