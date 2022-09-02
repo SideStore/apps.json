@@ -1,17 +1,17 @@
 {
   "name": "SideStore Official",
-  "identifier": "com.rileytestut.AltStore",
+  "identifier": "com.SideStore.SideStore",
   "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
   "apps": [
     {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
-      "developerName": "Riley Testut",
-      "version": "1.5.1",
-      "versionDate": "2022-07-14T12:00:00-05:00",
-      "versionDescription": "This update fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps\n• Potential crash when receiving unknown error codes from AltServer",
+      "developerName": "SideTeam",
+      "version": "1.5.1b",
+      "versionDate": "2022-09-01",
+      "versionDescription": "Fixes some issues \n\n EPIC STORE FOR GAMERS",
       "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+      "localizedDescription": "SideStore is an app that allows non-jailbroken iOS/iPadOS users to sideload apps all on-device.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
       "size": 5465976,
@@ -23,40 +23,31 @@
       "permissions": [
         {
           "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
+          "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
         },
         {
           "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+          "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
         }
       ]
     }
   ],
   "news": [
     {
-      "title": "Sideloading is Here!",
-      "identifier": "sideloading-is-here",
-      "caption": "Update to AltStore 1.3 to install any app directly from Files.",
-      "tintColor": "018084",
-      "imageURL": "https://user-images.githubusercontent.com/705880/79022069-02932380-7b32-11ea-8bad-49907cb97ece.png",
-      "date": "2020-04-10T13:00:00-07:00",
-      "notify": false
-    },
-    {
       "title": "e",
       "identifier": "no",
       "caption": "never gonna",
-      "tintColor": "018084",
+      "tintColor": "#8043F0",
       "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
       "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "date": "2022-05-05",
       "notify": false
     },
     {
-      "title": "New to AltStore?",
+      "title": "New to SideStore?",
       "identifier": "updated-faq",
       "caption": "Check out our updated guide to learn how to sideload apps!",
-      "tintColor": "018084",
+      "tintColor": "#8043FF",
       "url": "https://faq.altstore.io",
       "date": "2022-07-28",
       "notify": false
