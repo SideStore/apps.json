@@ -177,12 +177,12 @@
       "notify": true
     },
     {
-      "title": "More Apps in AltStore!",
-      "identifier": "trusted-sources",
-      "caption": "Update to AltStore 1.5 to easily download some of our favorite apps.",
-      "tintColor": "00CAB3",
-      "imageURL": "https://user-images.githubusercontent.com/705880/167026375-ddcb004f-7160-405c-b3e3-87a6795d2f43.png",
-      "url": "https://faq.altstore.io/release-notes/altstore",
+      "title": "e",
+      "identifier": "no",
+      "caption": "never gonna",
+      "tintColor": "FFFFF",
+      "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
       "date": "2022-05-05",
       "notify": true
     }
