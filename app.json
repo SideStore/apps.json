@@ -1,11 +1,11 @@
 {
   "name": "SideStore Official",
-  "identifier": "com.SideStore.SideStore",
+  "identifier": "com.rileytestus.altstore",
   "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
   "apps": [
     {
       "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.SideStore",
+      "bundleIdentifier": "com.rileytestus.altstore",
       "developerName": "Side Team",
       "version": "1.5.1",
       "versionDate": "2022-07-14T12:00:00-05:00",
