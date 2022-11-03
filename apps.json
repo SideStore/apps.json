@@ -1,15 +1,15 @@
 {
-  "name": "SideStore Official",
-  "identifier": "com.rileytestut.AltStore",
-  "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/app.json",
+  "name": "SideStore Offical",
+  "identifier": "com.SideStore.AltStore",
+  "sourceURL": "https://raw.githubusercontent.com/Spidy123222/apps.json/main/app.json",
   "apps": [
     {
-      "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.SideStore",
+      "name": "Altstore",
+      "bundleIdentifier": "com.SideStore.AltStore",
       "developerName": "Side Team",
-      "version": "1.5.1",
+      "version": "1.5.2b",
       "versionDate": "2022-07-14T12:00:00-05:00",
-      "versionDescription": "This update fixes the following issues:\n\n• Using Apple IDs that contain capital letters\n• Using Apple IDs with 2FA enabled without any trusted devices\n• Repeatedly asking some users to sign in every refresh\n• \"Incorrect Apple ID or password\" error after changing Apple ID email address\n• “Application is missing application-identifier” error when sideloading or (de-)activating certain apps\n• Potential crash when receiving unknown error codes from AltServer",
+      "versionDescription": "Welcome to the pacer test.",
       "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_5_1.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
@@ -33,7 +33,16 @@
     }
   ],
   "news": [
-
+    {
+      "title": "Rick on the rocks",
+      "identifier": "rick",
+      "caption": "never gonna give ya rocks",
+      "tintColor": "912F8D",
+      "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "date": "2022-05-06",
+      "notify": false
+    },
     {
       "title": "Rick waves his arms around",
       "identifier": "no",
@@ -45,12 +54,22 @@
       "notify": false
     },
     {
+      "title": "#StandWithUkraine",
+      "identifier": "support-ukraine",
+      "caption": "Find out how you can help support those impacted by the Russian invasion.",
+      "tintColor": "003e80",
+      "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+      "url": "https://linktr.ee/razomforukraine",
+      "date": "2022-03-01",
+      "notify": false
+    },
+    {
       "title": "New to SideStore?",
       "identifier": "updated-faq",
       "caption": "Check out our updated guide to learn how to sideload apps!",
       "tintColor": "8043FF",
       "url": "https://faq.altstore.io",
-      "date": "2022-07-28",
+      "date": "2050-07-28",
       "notify": false
     }
   ],
