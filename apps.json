@@ -1,10 +1,9 @@
 ---
 title: JSON Source
-redirect_from:
-  - /
+permalink: /
 ---
 {
-  "name": "SideStore Offical",
+  "name": "SideStore Official",
   "identifier": "com.SideStore.SideStore",
   "sourceURL": "https://apps.sidestore.io/",
   "apps": [
