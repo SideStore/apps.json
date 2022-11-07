@@ -1,1 +1,2 @@
-baseurl: apps.json
+plugins:
+  - jekyll-redirect-from
