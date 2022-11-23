@@ -11,10 +11,10 @@ permalink: /
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.1.0",
-      "versionDate": "2022-010-15T12:00:00-05:00",
-      "versionDescription": "Welcome to the next generation of sideloading!",
-      "downloadURL": "https://nythepegasus.com/SideStore.ipa",
+      "version": "0.1.1",
+      "versionDate": "2022-011-22T12:00:00-05:00",
+      "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
       "tintColor": "8043FF",
@@ -44,17 +44,7 @@ permalink: /
       "tintColor": "912F8D",
       "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
       "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "date": "2022-05-06",
-      "notify": false
-    },
-    {
-      "title": "Rick waves his arms around",
-      "identifier": "no",
-      "caption": "never gonna",
-      "tintColor": "912F8D",
-      "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "date": "2022-05-05",
+      "date": "2022-01-06",
       "notify": false
     },
     {
