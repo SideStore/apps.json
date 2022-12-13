@@ -47,6 +47,16 @@ permalink: /
   ],
   "news": [
     {
+      "title": "Added More Sources!",
+      "identifier": "TrustedSource",
+      "caption": "Introducing PojavLauncher to SideStore!",
+      "tintColor": "912F8D",
+      "imageURL": "https://pbs.twimg.com/media/FjwYldzaYAAhqUS.jpg",
+      "url": "https://twitter.com/sidestore_io/status/1602182903450210305?s=46&t=_UKJO3_7BFa-fxf0F6jSHw",
+      "date": "2022-12-12",
+      "notify": true
+    },
+    {
       "title": "Rick on the rocks",
       "identifier": "rick",
       "caption": "never gonna give ya rocks",
