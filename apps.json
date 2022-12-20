@@ -23,9 +23,9 @@
           "size": 5465976
         }
       ],
-      "version": "0.1.1",
-      "versionDate": "2022-011-22T12:00:00-05:00",
-      "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
+      "version": "1.0.0-rc.1",
+      "versionDate": "2022-012-22T12:00:00-05:00",
+      "versionDescription": "test.",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
