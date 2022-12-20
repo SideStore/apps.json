@@ -1,7 +1,11 @@
+---
+title: JSON Source
+permalink: /
+---
 {
   "name": "SideStore Offical",
   "identifier": "com.SideStore.SideStore",
-  "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/Update-photos/apps.json",
+  "sourceURL": "https://apps.sidestore.io/",
   "apps": [
     {
       "name": "SideStore",
