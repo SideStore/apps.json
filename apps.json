@@ -1,7 +1,7 @@
 {
   "name": "SideStore Offical",
   "identifier": "com.SideStore.SideStore",
-  "sourceURL": "https://apps.sidestore.io/",
+  "sourceURL": "https://raw.githubusercontent.com/SideStore/apps.json/Update-photos/apps.json",
   "apps": [
     {
       "name": "SideStore",
