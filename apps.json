@@ -25,13 +25,16 @@ permalink: /
       "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
-      "iconURL": "https://raw.githubusercontent.com/SideStore/apps.json/main/105070799.jpeg",
+      "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/develop/AltStore/Resources/Assets.xcassets/AppIcon.appiconset/1024.png",
       "tintColor": "8043FF",
       "size": 5465976,
       "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5878.PNG",
+        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5879.PNG",
+        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5880.PNG",
+        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5881.PNG",
+        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5882.PNG",
+        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5883.PNG"
       ],
       "permissions": [
         {
