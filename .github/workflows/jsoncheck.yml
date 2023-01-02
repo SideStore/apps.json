@@ -1,10 +1,11 @@
 name: JSON check
 
 on:
-  push:
-    paths:
-      - '_includes/source.json'
-  pull_request:
+  #push:
+  #  paths:
+  #    - '_includes/source.json'
+  #pull_request:
+  workflow_dispatch:
 
 jobs:
   test:
