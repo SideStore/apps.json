@@ -1,5 +1,7 @@
-plugins:
-  - jekyll-redirect-from
+title: SideStore Official Source
+description: The home of SideTeam apps
+url: "https://apps.sidestore.io"
 
-whitelist:
-  - jekyll-redirect-from
+exclude:
+  - "LICENSE"
+  - "README.md"
