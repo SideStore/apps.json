@@ -68,15 +68,15 @@
     {
       "title": "Welcome to SideStore!",
       "identifier": "welcome",
-      "caption": "Check out the GitHub page for more info",
+      "caption": "Check out the Wiki page for more info",
       "tintColor": "A405FA",
-      "url": "https://github.com/SideStore/SideStore/",
+      "url": "https://wiki.sidestore.io",
       "date": "2050-01-02",
       "notify": false
     },
     {
       "title": "Proceed with Caution!",
-      "identifier": "CAUTION",
+      "identifier": "caution",
       "caption": "SideStore is currently pre-release software. Expect bugs, and please report them",
       "tintColor": "FF0F0F",
       "url": "https://github.com/SideStore/SideStore/issues",
