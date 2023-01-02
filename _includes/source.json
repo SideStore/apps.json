@@ -1,7 +1,7 @@
 {
   "name": "SideStore Offical",
   "identifier": "com.SideStore.SideStore",
-  "sourceURL": "https://apps.sidestore.io/",
+  "sourceURL": "https://apps.sidestore.io",
   "apps": [
     {
       "name": "SideStore",
@@ -21,16 +21,16 @@
       "versionDescription": "Welcome to the next generation of sideloading! This update fixes and adds the following:\n\n - Officially adds ability to pair via a mobiledevicepairing and a plist file.\n\n - Changes patreon page. fixes GroupID staging issues.\n\n - Fixes refreshing SideStore creating a second app or fails refreshing.",
       "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.1.1/SideStore.ipa",
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
-      "iconURL": "https://raw.githubusercontent.com/SideStore/SideStore/develop/AltStore/Resources/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
       "tintColor": "A405FA",
       "size": 5465976,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5878.PNG",
-        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5879.PNG",
-        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5880.PNG",
-        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5881.PNG",
-        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5882.PNG",
-        "https://raw.githubusercontent.com/SideStore/apps.json/main/images/IMG_5883.PNG"
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
       ],
       "permissions": [
         {
@@ -56,16 +56,6 @@
       "notify": true
     },
     {
-      "title": "Rick on the rocks",
-      "identifier": "rick",
-      "caption": "never gonna give ya rocks",
-      "tintColor": "912F8D",
-      "imageURL": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "date": "2022-01-06",
-      "notify": false
-    },
-    {
       "title": "#StandWithUkraine",
       "identifier": "support-ukraine",
       "caption": "Find out how you can help support those impacted by the Russian invasion.",
@@ -76,12 +66,21 @@
       "notify": false
     },
     {
-      "title": "New to SideStore?",
-      "identifier": "updated-faq",
-      "caption": "Good luck!",
-      "tintColor": "8043FF",
-      "url": "https://faq.sidestore.io",
-      "date": "2050-07-28",
+      "title": "Welcome to SideStore!",
+      "identifier": "welcome",
+      "caption": "Check out the GitHub page for more info",
+      "tintColor": "A405FA",
+      "url": "https://github.com/SideStore/SideStore/",
+      "date": "2050-01-02",
+      "notify": false
+    },
+    {
+      "title": "Proceed with Caution!",
+      "identifier": "CAUTION",
+      "caption": "SideStore is currently pre-release software. Expect bugs, and please report them",
+      "tintColor": "FF0F0F",
+      "url": "https://github.com/SideStore/SideStore/issues",
+      "date": "2050-01-01",
       "notify": false
     }
   ],
