@@ -1,0 +1,5 @@
+---
+title: SideStore Official Source
+permalink: /
+---
+{% include source.json %}
