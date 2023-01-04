@@ -7,6 +7,7 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
+      "version": "0.1.1",
       "beta": true,
       "versions": [
         {
