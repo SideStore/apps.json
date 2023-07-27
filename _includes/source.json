@@ -8,14 +8,14 @@
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
       "version": "0.5.0",
-      "versionDate": "2023-07-27T07:45:00-5:00",
+      "versionDate": "2023-07-27T06:00:00-5:00",
       "versionDescription": "Happy July! We have been hard at work on stability improvements for SideStore!\n\n# Changes \n\n * [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.4.0..0.5.0",
       "beta": true,
       "size": 9157428,
       "versions": [
         {
           "version": "0.5.0",
-          "date": "2023-07-27T07:45:00-5:00",
+          "date": "2023-07-27T06:00:00-5:00",
           "localizedDescription": "Happy July! We have been hard at work on stability improvements for SideStore!\n\n# Changes \n\n * [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.4.0..0.5.0",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.0/SideStore.ipa",
           "size": 9157428
