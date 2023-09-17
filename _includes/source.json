@@ -7,16 +7,24 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.5.0",
-      "versionDate": "2023-07-27T06:00:00-5:00",
-      "versionDescription": "Happy July! We have been hard at work on stability improvements for SideStore!\n\n# Changes \n\n * [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.4.0..0.5.0",
+      "version": "0.5.1",
+      "versionDate": "2023-09-17T18:50:00-5:00",
+      "versionDescription": "Having a good September? We have been hard at work on stability improvements and better error logging for SideStore!\n\n# Changes \n\n * The "Unable to install app" (aka "staging error") error message has been split into explicit error messages. This should allow people who get the error to troubleshoot more easily. (From Dadoum for initial implementation, naturecodevoid for fixes)\n* AltSign and all other dependencies were updated. This should help fix some issues. (spidy123222 and Joelle Lonkell for AltSign, naturecodevoided for everything else)\n* The notification and alert explaining SideStore needing to be in the background to refresh was shortened and made clearer. changed by spidy123322\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.5.0..0.5.1",
       "beta": true,
       "size": 9157428,
       "versions": [
         {
+          "version": "0.5.1",
+          "date": "2023-09-17T18:50:00-5:00",
+          "localizedDescription": "Having a good September? We have been hard at work on stability improvements and better error logging for SideStore!\n\n# Changes \n\n * The "Unable to install app" (aka "staging error") error message has been split into explicit error messages. This should allow people who get the error to troubleshoot more easily. (From Dadoum for initial implementation, naturecodevoid for fixes)\n* AltSign and all other dependencies were updated. This should help fix some issues. (spidy123222 and Joelle Lonkell for AltSign, naturecodevoided for everything else)\n* The notification and alert explaining SideStore needing to be in the background to refresh was shortened and made clearer. changed by spidy123322\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.5.0..0.5.1",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.1/SideStore.ipa",
+          "size": 9157428
+          
+        },
+        {
           "version": "0.5.0",
           "date": "2023-07-27T06:00:00-5:00",
-          "localizedDescription": "Happy July! We have been hard at work on stability improvements for SideStore!\n\n# Changes \n\n * [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.4.0..0.5.0",
+          "localizedDescription": "Having a good September? We have been hard at work on stability improvements and better error logging for SideStore!\n\n# Changes \n\n * The "Unable to install app" (aka "staging error") error message has been split into explicit error messages. This should allow people who get the error to troubleshoot more easily. (From Dadoum for initial implementation, naturecodevoid for fixes)\n* AltSign and all other dependencies were updated. This should help fix some issues. (spidy123222 and Joelle Lonkell for AltSign, naturecodevoided for everything else)\n* The notification and alert explaining SideStore needing to be in the background to refresh was shortened and made clearer. changed by spidy123322\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.5.0..0.5.1",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.0/SideStore.ipa",
           "size": 9157428
           
@@ -39,7 +47,7 @@
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
       "tintColor": "A405FA",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.0/SideStore.ipa",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.1/SideStore.ipa",
       "screenshotURLs": [
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
