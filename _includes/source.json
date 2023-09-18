@@ -8,14 +8,14 @@
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
       "version": "0.5.1",
-      "versionDate": "2023-09-17T16:50:00-5:00",
+      "versionDate": "2023-09-17T18:50:00-5:00",
       "versionDescription": "Having a good September? We have been hard at work on stability improvements and better error logging for SideStore!\n\n# Changes \n\n * The Unable to install app (aka staging error) error message has been split into explicit error messages. This should allow people who get the error to troubleshoot more easily. (Dadoum for initial implementation, naturecodevoid for fixes)\n* AltSign and all other dependencies were updated. This should help fix some issues. (spidy123222 and Joelle Lonkell for AltSign, naturecodevoided for everything else)\n* The notification and alert explaining SideStore needing to be in the background to refresh was shortened and made clearer. (spidy123322)\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.5.0..0.5.1",
       "beta": true,
       "size": 9157428,
       "versions": [
         {
           "version": "0.5.1",
-          "date": "2023-09-17T16:50:00-5:00",
+          "date": "2023-09-17T18:50:00-5:00",
           "localizedDescription": "Having a good September? We have been hard at work on stability improvements and better error logging for SideStore!\n\n# Changes \n\n * The Unable to install app (aka staging error) error message has been split into explicit error messages. This should allow people who get the error to troubleshoot more easily. (Dadoum for initial implementation, naturecodevoid for fixes)\n* AltSign and all other dependencies were updated. This should help fix some issues. (spidy123222 and Joelle Lonkell for AltSign, naturecodevoided for everything else)\n* The notification and alert explaining SideStore needing to be in the background to refresh was shortened and made clearer. (spidy123322)\nFull Changelog: https://github.com/SideStore/SideStore/compare/0.5.0..0.5.1",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.1/SideStore.ipa",
           "size": 9157428
