@@ -7,12 +7,32 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.5.2",
-      "versionDate": "2023-10-20T22:30:00Z",
-      "versionDescription": "Having a spooky October? We have too while working on stability improvements and better error logging for SideStore!\n\n# Changelog\n* Remove the buggy retry code finally (@nythepegasus)\n* Recompile and update AltBackup to make it function again (@nythepegasus)\n* Update submodule dependencies (@naturecodevoid and @nythepegasus)\n* Remove emuthreeds from trusted sources (down too frequently) (@Spidy123222)\n* Use provisioning profile details instead of guessing active app limit by @bogsen in https://github.com/SideStore/SideStore/pull/508\n**Full Changelog**: https://github.com/SideStore/SideStore/compare/0.5.1...0.5.2",
+      "version": "0.5.4",
+      "versionDate": "2023-11-27T13:30:00Z",
+      "versionDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist",
       "beta": true,
       "size": 9195339,
+      "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
+      "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
+      "tintColor": "A405FA",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+      "screenshotURLs": [
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
+        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
+      ],
       "versions": [
+        {
+          "version": "0.5.4",
+          "date": "2023-11-27T13:30:00Z",
+          "localizedDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+          "size": 9195339
+          
+        },
         {
           "version": "0.5.2",
           "date": "2023-10-20T22:30:00Z",
@@ -51,18 +71,6 @@
           "localizedDescription": "Happy March! We have been busy with doing quality of life changes and getting stuff up and running like deactivating and getting bugs fixed that you guys found in nightly. We don’t currently have a fix for expiring early issue but is in the works like anisette issues. This should allow basic support for all functions.\n\n For people that want to use MDC no3applimit (MacDirtyCow). It’s currently not ready as it includes the patch not needing any external apps. So for any brave people that really want it you will have to look at this pull request and use the ipa downloads from GitHub actions  https://github.com/SideStore/SideStore/pull/259 . We don’t recommend relying on pull requests as because a commit could break the app so be warned, this is the same for nightly but with nightly has latest develop branch changes.\n\n What's Changed: \n\n - Fix beta apps not refreshing \n\n - Fix beta apps on the my apps view \n\n - Fix deactivating/activating apps \n\n - Merge all of Riley's new error handling stuff \n\n - add easy anisette server selector iOS Settings app \n\n - added toggle for custom anisette server \n\n - Change the default anisette server \n\n - Add a bit more logging throughout the signing process to help us pin down issues \n\n - Allow for .mobiledevicepairing and .plist files to be selected, try and pin down why users can't select either \n\n - Hopefully fix AltWidget issues \n\n - Add analytics to help developers understand current demographic of users (and hopefully pin down version specific bugs) \n\n - Icon change (thanks LittRitt!) \n\n - Sidestore directory accessible in files \n\n - Reset pairing file button \n\n - Advanced settings button \n\n - Browse icon change \n\n - Credit adjustment \n\n - Background color fixes \n\n - Added more permission types for sources \n\n - Join Patreon button crash fix \n\n - Turned off background notification refreshes \n\n - Sidestore Logger \n\n - Minimuxer logger \n\n - Additional logging for minimuxer for sidestore for troubleshooting \n\n - Replace Placeholder video for pairing instructions. \n\n - Fix BundleId issues on parts of sidestore \n\n - Fix trusted sources if one app has problems that it shouldn’t take down the full list. \n\n \n\n Full Commit Changelog: https://github.com/SideStore/SideStore/compare/0.1.1...0.3.1",
           "size": 5465976
         }
-      ],
-      "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
-      "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
-      "tintColor": "A405FA",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.1/SideStore.ipa",
-      "screenshotURLs": [
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-dark.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-light.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-light.png",
-        "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
       ],
       "permissions": [
         {
