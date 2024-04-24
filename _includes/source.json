@@ -7,15 +7,15 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.5.4",
-      "versionDate": "2023-11-27T13:30:00Z",
-      "versionDescription": "Happy November! Since we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Clear cache button to help with the large size issues. \n\n - Fix: Fix AppID Crash \n\n - Version in settings showing as develop \n\n - Added Timeout Feature so when you install an app. Your device will not time out and mess up the install. \n\n - Remove the heavy reliance on Info.plist for UDID. \n\n - Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes. \n\n - fix: fix AltWidget AppGroup Issue. \n\n - fix: Use forked libplist",
+      "version": "0.5.6",
+      "versionDate": "2024-4-22T13:30:00Z",
+      "versionDescription": "Happy April! This uodate we have some stability fixes and some improvement with sources page text. /n/n/n What has been changed: /n/n - Add description on what disable idle timeout toggle + change add to Siri text for accuracy by @Spidy123222 in #550 /n/n - Remove patreon exclusivity message for sources by @Spidy123222 in #594 /n/n Add ani.wesbryie.com to Anisette list by @WesleyBryie in #604 /n/n - Attempt to (hackily) fix embedded pairing file issues @nythepegasus",
       "beta": true,
       "size": 9195339,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
       "tintColor": "A405FA",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.6/SideStore.ipa",
       "screenshotURLs": [
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
@@ -25,6 +25,14 @@
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
       ],
       "versions": [
+        {
+          "version": "0.5.6",
+          "date": "2024-4-22T13:30:00Z",
+          "localizedDescription": "Happy April! This uodate we have some stability fixes and some improvement with sources page text. /n/n/n What has been changed: /n/n - Add description on what disable idle timeout toggle + change add to Siri text for accuracy by @Spidy123222 in #550 /n/n - Remove patreon exclusivity message for sources by @Spidy123222 in #594 /n/n Add ani.wesbryie.com to Anisette list by @WesleyBryie in #604 /n/n - Attempt to (hackily) fix embedded pairing file issues @nythepegasus",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.6/SideStore.ipa",
+          "size": 9195339
+          
+        },
         {
           "version": "0.5.4",
           "date": "2023-11-27T13:30:00Z",
