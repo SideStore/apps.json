@@ -116,9 +116,9 @@
     {
       "title": "Welcome to SideStore!",
       "identifier": "welcome",
-      "caption": "Check out the Wiki page for more info",
+      "caption": "Check out the Documentation for more info",
       "tintColor": "A405FA",
-      "url": "https://wiki.sidestore.io",
+      "url": "https://docs.sidestore.io",
       "date": "2050-01-02",
       "notify": false
     },
