@@ -7,15 +7,15 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.5.7",
-      "versionDate": "2024-8-05T18:30:00Z",
-      "versionDescription": "Happy August! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - Added Stossy11 Anisette Server by stossy11 \n\n - Added SideJITServer Support for Enabling JIT on iOS 17+ by @stossy11 \n\n - Change AltStore Expiring Soon to SideStore Expiring Soon by therealFoxster \n\n - Add Dynamic anisette intervention \n\n -  Update to altstore 1.6.3 by @junepark678  \n\n -  Include Enable JIT errors in Error Log \n\n -  Fix minimuxer status checking \n\n -  Update no wifi message to include VPN \n\n -  Opens Error Log when tapping ToastView \n\n -  Fixes Error Log context menu covering cell content \n\n -  Fixes Error Log context menu appearing while scrolling \n\n -  Fixes incorrect Search FAQ URL \n\n -  Fix Error Log showing UIAlertController on iOS 14 + \n\n -  Fix Error Log not showing UIAlertController on iOS <=13 \n\n -  Fix wrong color in AuthenticationViewController \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
+      "version": "0.5.8",
+      "versionDate": "2024-9-07T18:30:00Z",
+      "versionDescription": "Ah, September! You are a doorway to the season that awakens another sidestore update! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - UI Improvements for the Anisette Servers View. by @0-Blu in #672 \n\n - Added more feedback options. by @0-Blu in #673 \n\n - Fix SideJITServer Support for iOS 17+ by @stossy11 in #674 \n\n - Makes revoking optional by @junepark678 in #675 \n\n -  Better pairing file info by @bogotesr in #676  \n\n -  Selective app extension removal by @junepark678 in #677 \n\n -  legal: developer's certificate of origin 1.1 by @polymo1 in #686 \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
       "beta": true,
       "size": 9300000,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
       "tintColor": "A405FA",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.7/SideStore.ipa",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
       "screenshotURLs": [
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
@@ -25,6 +25,14 @@
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
       ],
       "versions": [
+        {
+          "version": "0.5.8",
+          "date": "2024-9-07T18:30:00Z",
+          "localizedDescription": "Ah, September! You are a doorway to the season that awakens another sidestore update! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having. \n\n\n What's Changed: \n\n - UI Improvements for the Anisette Servers View. by @0-Blu in #672 \n\n - Added more feedback options. by @0-Blu in #673 \n\n - Fix SideJITServer Support for iOS 17+ by @stossy11 in #674 \n\n - Makes revoking optional by @junepark678 in #675 \n\n -  Better pairing file info by @bogotesr in #676  \n\n -  Selective app extension removal by @junepark678 in #677 \n\n -  legal: developer's certificate of origin 1.1 by @polymo1 in #686 \n\n Thanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our discord! \n\n Discord: https://discord.gg/sidestore-949183273383395328",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
+          "size": 9300000
+          
+        },
         {
           "version": "0.5.7",
           "date": "2024-8-05T18:30:00Z",
