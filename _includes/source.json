@@ -9,7 +9,7 @@
       "developerName": "SideStore Team",
       "version": "0.5.10",
       "versionDate": "2024-12-27T01:01:50Z",
-      "versionDescription": "Hey there side commmunity. this is patch to improve stability of sidestore. more specifically for sources.",
+      "versionDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
       "beta": true,
       "size": 9300000,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
@@ -28,7 +28,7 @@
         {
           "version": "0.5.10",
           "date": "2024-12-27T01:01:50Z",
-          "localizedDescription": "Hey there side commmunity. this is patch to improve stability of sidestore. more specifically for sources.",
+          "localizedDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.10/SideStore.ipa",
           "size": 9300000
           
