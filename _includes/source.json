@@ -153,6 +153,15 @@
       "notify": false
     },
     {
+      "title": "SideStore 0.6.2",
+      "identifier": "update-062",
+      "caption": "A new version has released with new features and stability improvements!",
+      "tintColor": "A405FA",
+      "url": "https://github.com/SideStore/SideStore/releases/tag/0.6.2",
+      "date": "2025-06-30",
+      "notify": true
+    },
+    {
       "title": "Welcome to SideStore!",
       "identifier": "welcome",
       "caption": "Check out the Documentation for more info",
